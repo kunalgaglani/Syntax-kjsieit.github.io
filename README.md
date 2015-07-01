@@ -1,2 +1,2 @@
 # Syntax-kjsieit.github.io
-This will the official open source blog of syntax
+This will be the official open source blog of syntax
